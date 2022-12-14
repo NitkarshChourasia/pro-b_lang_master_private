@@ -1,6 +1,6 @@
 //Final script
-var starting_program_index = 1;
-var number_of_program_done_in_Cur_dif = 0;
+var starting_program_index = 244;
+var number_of_program_done_in_Cur_dif = 243;
 var current_difficulty = "Very Easy"; // "Very Easy" "Easy" "Medium" "Hard" "Very Hard" "Expert"
 var prog_lang = "js"; // py js java c++
 
