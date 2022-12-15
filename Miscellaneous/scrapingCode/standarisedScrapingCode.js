@@ -1,8 +1,9 @@
+// Finalised Script Done.
 //Final script
-var starting_program_index = 70;
-var number_of_program_done_in_Cur_dif = 69;
-var current_difficulty = "Very Easy"; // "Very Easy" "Easy" "Medium" "Hard" "Very Hard" "Expert"
-var prog_lang = "c++"; // py js java c++
+var starting_program_index = 608;
+var number_of_program_done_in_Cur_dif = 197;
+var current_difficulty = "Easy"; // "Very Easy" "Easy" "Medium" "Hard" "Very Hard" "Expert"
+var prog_lang = "js"; // py js java c++
 
 
 
@@ -98,6 +99,7 @@ function selectTheProgram() {
   }
   else {
     document.getElementsByClassName("ui fluid button")[0].click();
+    window.scrollTo(0, document.body.scrollHeight);
     setTimeout(selectTheProgram, 500);
   }
 }
@@ -186,6 +188,10 @@ function extractTheContent2() {
   let mainContent = "\n\n\n\n-------------------------------------------------------------------\n[Resources]\n";
 
   let mainDivEle = (document.getElementsByClassName("ui comments"))[0].children;
+
+  if (document.getElementsByClassName("ui comments")[0].children[0].className == "ui center aligned container") {
+    return mainContent+'\n\n[No Resources]\n\n';
+  }
 
   for (let i of mainDivEle) {
     let p_string = "";
