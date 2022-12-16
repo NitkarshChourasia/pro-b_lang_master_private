@@ -1,9 +1,9 @@
 // Finalised Script Done.
 //Final script
-var starting_program_index = 608;
-var number_of_program_done_in_Cur_dif = 197;
-var current_difficulty = "Easy"; // "Very Easy" "Easy" "Medium" "Hard" "Very Hard" "Expert"
-var prog_lang = "js"; // py js java c++
+var starting_program_index = 297;
+var number_of_program_done_in_Cur_dif = 296;
+var current_difficulty = "Very Easy"; // "Very Easy" "Easy" "Medium" "Hard" "Very Hard" "Expert"
+var prog_lang = "c++"; // py js java c++
 
 
 
