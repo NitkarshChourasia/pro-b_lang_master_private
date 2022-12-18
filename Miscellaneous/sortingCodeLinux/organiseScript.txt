@@ -4,4 +4,4 @@ IFS=$'\n'
 
 ## Step 2: Then put proper search term and path to move the files to the destination. Boom! Good to go.
 
-for i in $(ls -v1 | grep -F '[VE]'); do mv $i /home/nitkarshc/Downloads/originalEdabitScraped/Python/veryEasy/$i;done
+for i in $(ls -v1 | grep -F '[H]'); do mv $i /home/nitkarshc/Downloads/originalEdabitScraped/Python/Hard/$i;done
