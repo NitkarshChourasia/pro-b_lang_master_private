@@ -1,14 +1,15 @@
 #!/bin/sh
 
 # Script made by me, Nitkarsh Chourasia.
+
 cd /home/nitkarshc/Desktop/Programmed?/downloadedScrapedEdabitCodes
 
-mv *.cpp ../originalEdabitScraped/C++
-mv *.java ../originalEdabitScraped/Java
-mv *.py ../originalEdabitScraped/Python
-mv *.js ../originalEdabitScraped/JavaScript
+mv *.cpp /home/nitkarshc/Desktop/Programmed?/originalEdabitScraped/C++
+mv *.java /home/nitkarshc/Desktop/Programmed?/originalEdabitScraped/Java
+mv *.py /home/nitkarshc/Desktop/Programmed?/originalEdabitScraped/Python
+mv *.js /home/nitkarshc/Desktop/Programmed?/originalEdabitScraped/JavaScript
 
-cd ../originalEdabitScraped
+cd /home/nitkarshc/Desktop/Programmed?/originalEdabitScraped
 git add --all
 git commit -S -m "Latest files being uploaded at `date +%F %T`"
 git push
