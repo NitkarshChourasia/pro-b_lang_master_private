@@ -11,7 +11,7 @@ mv *.js /home/nitkarshc/Desktop/Programmed?/originalEdabitScraped/JavaScript
 
 cd /home/nitkarshc/Desktop/Programmed?/originalEdabitScraped
 git add --all
-git commit -S -m "Latest files being uploaded at `date +%F %T`"
+git commit -S -m "Latest files being uploaded at `date +%F-%T`"
 git push
 git fetch
 git pull
