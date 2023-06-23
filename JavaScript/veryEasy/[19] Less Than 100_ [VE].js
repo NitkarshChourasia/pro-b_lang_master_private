@@ -69,6 +69,11 @@ Conditionals
 https://www.javascript.com/learn/conditionals#:~:text=There%20are%20multiple%20different%20types%20of%20conditionals%20in,new%20test%20if%20the%20first%20condition%20is%20false.
 Learn the different JavaScript conditional statements with full examples of each and a brief explanation of how each conditional works.
 _________
+_________
+if...else
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+The if...else statement executes a statement if a specified condition is truthy. If the condition is falsy, another statement in the optional else clause will be executed.
+_________
 
 */
 //Your code should go here:

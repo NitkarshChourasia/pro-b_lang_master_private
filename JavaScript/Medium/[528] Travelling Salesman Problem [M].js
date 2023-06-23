@@ -1,7 +1,7 @@
 /*
 ####  Travelling Salesman Problem  ####
 
-A salesman has a number of cities to visit. They want to calculate the total number of possible paths they could take, visiting each city once before returning home. Return the total number of possible paths a salesman can travel, given n cities.
+A salesman has a number of cities to visit. He wants to calculate the total number of possible paths he could take, visiting each city once before returning home. Return the total number of possible paths a salesman can travel, given n cities.
 If we have cities A, B and C, possible paths would be:
 ___
 A -> B -> C

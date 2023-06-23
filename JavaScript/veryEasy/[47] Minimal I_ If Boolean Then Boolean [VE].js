@@ -68,6 +68,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if.
 Executes a statement if a specified condition is truthy. If the condition is falsy, another statement can be executed.
 _________
 _________
+How to determine if a number is odd in JavaScript?
+https://stackoverflow.com/questions/5016313/how-to-determine-if-a-number-is-odd-in-javascript
+Can anyone point me to some code to determine if a number in JavaScript is even or odd?
+_________
+_________
 Logical NOT (!)
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT
 Takes truth to falsity and vice versa. It is typically used with Boolean (logical) values. When used with non-Boolean values, it returns false if its single operand can …
@@ -81,11 +86,6 @@ _________
 Conditional (ternary) operator
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
 Is the only JavaScript operator that takes three operands: a condition followed by a question mark (?), then an expression to execute if the condition is truthy followe …
-_________
-_________
-How to determine if a number is odd in JavaScript?
-https://stackoverflow.com/questions/5016313/how-to-determine-if-a-number-is-odd-in-javascript
-Can anyone point me to some code to determine if a number in JavaScript is even or odd?
 _________
 
 */

@@ -46,6 +46,16 @@ Regular Polygon
 https://en.wikipedia.org/wiki/Regular_polygon
 A polygon that is equiangular (all angles are equal in measure) and equilateral (all sides have the same length). Regular polygons may be either convex or star. In the …
 _________
+_________
+Sum of Polygon Angles
+https://endubueze00.medium.com/javascript-algorithm-sum-of-polygon-angles-33045e231e32
+Finding the sum of internal angles in a polygon.
+_________
+_________
+Sum of Angles in a Polygon
+https://www.geeksforgeeks.org/sum-of-angles-in-a-polygon/?ref=gcse
+A polygon is defined as a two-dimensional geometric figure that has a finite number of line segments connected to form a closed shape. The line segments of a polygon ar …
+_________
 
 */
 //Your code should go here:

@@ -57,6 +57,11 @@ eval() Function
 https://www.w3schools.com/jsref/jsref_eval.asp
 If the argument is an expression, eval() evaluates the expression. If the  argument is one or more JavaScript statements, eval() executes the statements.
 _________
+_________
+eval() vs. Function() in JavaScript
+https://www.educative.io/answers/eval-vs-function-in-javascript
+eval() and Function() are two powerful tools in JavaScript that allow us to evaluate any JavaScript expression passed to either of them as a string. They are both used …
+_________
 
 */
 //Your code should go here:

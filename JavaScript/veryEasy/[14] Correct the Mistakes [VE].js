@@ -47,14 +47,14 @@ https://www.tutorialspoint.com/javascript/string_length.htm
 This property returns the number of characters in a string.
 _________
 _________
-Grammar and Types
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types
-JavaScript borrows most of its syntax from Java, C and C++, but is also influenced by Awk, Perl and Python. JavaScript is case-sensitive and uses the Unicode character …
-_________
-_________
 Exponentiation (**) Operator
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation
 Returns the result of raising the first operand to the power of the second operand. It is equivalent to Math.pow, except it also accepts BigInts as operands.
+_________
+_________
+Grammar and Types
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types
+JavaScript borrows most of its syntax from Java, C and C++, but is also influenced by Awk, Perl and Python. JavaScript is case-sensitive and uses the Unicode character …
 _________
 
 */

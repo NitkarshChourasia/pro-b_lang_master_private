@@ -52,6 +52,21 @@ https://www.javascripttutorial.net/javascript-unary-operators/
 The simplest operators in JavaScript are unary operators. A unary operator works on one operand.
 _________
 _________
+Type conversion
+https://en.wikipedia.org/wiki/Type_conversion
+In computer science, type conversion,[1][2] type casting,[1][3] type coercion,[3] and type juggling[4][5] are different ways of changing an expression from one data typ …
+_________
+_________
+Type coercion - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion
+Type coercion is the automatic or implicit conversion of values from one data type to another (such as strings to numbers). Type conversion is similar to type coercion …
+_________
+_________
+Number
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number#convert_numeric_strings_and_null_to_numbers
+Number values represent floating-point numbers like 37 or -9.25.
+_________
+_________
 Java Convert String to int
 https://www.javatpoint.com/java-string-to-int
 We can convert String to an int in java using Integer.parseInt() method. To convert String into Integer, we can use Integer.valueOf() method which returns instance of I …

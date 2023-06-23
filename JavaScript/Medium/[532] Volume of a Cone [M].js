@@ -60,14 +60,14 @@ https://brilliant.org/wiki/volume-cone/
 The volume of a cone, where "r" denotes the radius of the base of the cone, and "h" denotes the height of the cone.
 _________
 _________
-Interactive Tool: Volume of a Cone
-https://www.mathopenref.com/conevolume.html
-Gives the formula and has an interactive tool to demonstrate.
-_________
-_________
 parseFloat()
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
 Parses an argument (converting it to a string first if needed) and returns a floating point number.
+_________
+_________
+Interactive Tool: Volume of a Cone
+https://www.mathopenref.com/conevolume.html
+Gives the formula and has an interactive tool to demonstrate.
 _________
 _________
 Volume of a Cone

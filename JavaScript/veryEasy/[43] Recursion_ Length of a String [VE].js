@@ -45,6 +45,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Executes a reducer function (that you provide) on each element of the array, resulting in a single output value.
 _________
 _________
+String.prototype.substring()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring
+Returns the part of the string between the start and end indexes, or to the end of the string.
+_________
+_________
 String.prototype.length
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
 Indicates the length of a string, in UTF-16 code units.
@@ -55,14 +60,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Creates a new, shallow-copied Array instance from an array-like or iterable object.
 _________
 _________
-String.prototype.substring()
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring
-Returns the part of the string between the start and end indexes, or to the end of the string.
-_________
-_________
 Array.prototype.indexOf()
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
 Returns the first index at which a given element can be found in the array, or -1 if it is not present.
+_________
+_________
+JavaScript Recursion Explained Simply
+https://www.youtube.com/watch?v=LteNqj4DFD8
+What is recursion? The process in which a function calls itself is called recursion.
 _________
 _________
 A Quick Intro to Recursion
@@ -73,11 +78,6 @@ _________
 Arrow Function
 https://www.w3schools.com/js/js_arrow_function.asp
 Allow us to write shorter function syntax.
-_________
-_________
-JavaScript Recursion Explained Simply
-https://www.youtube.com/watch?v=LteNqj4DFD8
-What is recursion? The process in which a function calls itself is called recursion.
 _________
 
 */

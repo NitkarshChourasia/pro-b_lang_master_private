@@ -98,9 +98,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Determines whether an array includes a certain value among its entries, returning true or false as appropriate.
 _________
 _________
-JavaScript.com
-https://www.javascript.com/
-JavaScript.com is a resource for the JavaScript community. You will find resources and examples for JavaScript beginners as well as support for JavaScript experts. Lear …
+How to check for array equality using javascript?
+https://flexiple.com/javascript/javascript-array-equality/
+Equality is a tricky subject when it comes to javascript. Even more when it comes to comparing objects in javascript. Let's take a look at the various methods to compar …
 _________
 
 */

@@ -63,14 +63,14 @@ https://www.w3schools.com/js/js_bitwise.asp
 In JavaScript, a number is stored as a 64-bit floating-point number but the bit-wise operation is performed on a 32-bit binary number i.e. to perform a bit-operation Ja …
 _________
 _________
-Exponentiation (**)
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation
-Returns the result of raising the first operand to the power of the second operand. It is equivalent to Math.pow, except it also accepts BigInts as operands.
-_________
-_________
 Math.floor()
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
 Returns the largest integer less than or equal to a given number.
+_________
+_________
+Exponentiation (**)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation
+Returns the result of raising the first operand to the power of the second operand. It is equivalent to Math.pow, except it also accepts BigInts as operands.
 _________
 
 */

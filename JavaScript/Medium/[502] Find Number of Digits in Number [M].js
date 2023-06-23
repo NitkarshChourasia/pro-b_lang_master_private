@@ -45,14 +45,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Always rounds a number up to the next largest integer.
 _________
 _________
-Math.floor()
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
-Returns the largest integer less than or equal to a given number.
-_________
-_________
 Math.log10()
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log10
 Returns the base 10 logarithm of a number. If the value of x is less than 0, the return value is always NaN. Because log10() is a static method of Math, you always use …
+_________
+_________
+Math.floor()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+Returns the largest integer less than or equal to a given number.
 _________
 _________
 Math.sign()

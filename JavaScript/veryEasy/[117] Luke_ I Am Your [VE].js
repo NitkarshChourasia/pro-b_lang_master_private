@@ -34,14 +34,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objec
 Is a collection of properties, and a property is an association between a name (or key) and a value. A property's value can be a function, in which case the property is …
 _________
 _________
-Template literals
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-Are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them.
-_________
-_________
 Switch Statement
 https://www.w3schools.com/js/js_switch.asp
 Is used to perform different actions based on different conditions.
+_________
+_________
+Template literals
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+Are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them.
 _________
 _________
 How to Create a Dictionary With Key/Value Pairs

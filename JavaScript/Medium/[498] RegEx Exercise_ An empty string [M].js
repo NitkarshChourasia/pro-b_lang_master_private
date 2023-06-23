@@ -42,14 +42,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expression
 Online regex tester, debugger with highlighting for PHP, Python, Golang and JavaScript.
 _________
 _________
-Matching an Empty String With Regex
-https://stackoverflow.com/a/17618690
-I've seen posts here on stackoverflow that say that the regex ^$ will match an empty string... So it made me think... why not something like this: ^\s+$ - does that not …
-_________
-_________
 Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
 regex101.com
 Online regex tester, debugger with highlighting for PHP, Python, Golang and JavaScript.
+_________
+_________
+Matching an Empty String With Regex
+https://stackoverflow.com/a/17618690
+I've seen posts here on stackoverflow that say that the regex ^$ will match an empty string... So it made me think... why not something like this: ^\s+$ - does that not …
 _________
 
 */

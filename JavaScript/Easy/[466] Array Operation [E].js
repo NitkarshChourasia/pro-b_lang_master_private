@@ -35,11 +35,6 @@ N/A
 -------------------------------------------------------------------
 [Resources]
 _________
-Array.prototype.filter()
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
-Creates a new array with all elements that pass the test implemented by the provided function.
-_________
-_________
 The “for” Loop
 https://javascript.info/while-for#the-for-loop
 The for loop is more complex, but it’s also the most commonly used loop. The condition is checked before each iteration. Let’s learn the meaning of these parts by examp …
@@ -48,6 +43,11 @@ _________
 Array.prototype.push()
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
 Adds one or more elements to the end of an array and returns the new length of the array.
+_________
+_________
+Array.prototype.filter()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+Creates a new array with all elements that pass the test implemented by the provided function.
 _________
 _________
 Create Array of All Integers Between Two Numbers, Inclusive

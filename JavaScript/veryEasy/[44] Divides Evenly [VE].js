@@ -53,9 +53,29 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Determines whether an array includes a certain value among its entries, returning true or false as appropriate.
 _________
 _________
-isInteger() Method
-https://www.w3schools.com/jsref/jsref_isinteger.asp
-Determines whether a value an integer.
+Remainder (%)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder
+The remainder (%) operator returns the remainder left over when one operand is divided by a second operand. It always takes the sign of the dividend.
+_________
+_________
+Division (/)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Division
+The division (/) operator produces the quotient of its operands where the left operand is the dividend and the right operand is the divisor.
+_________
+_________
+Equality (==)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality
+The equality (==) operator checks whether its two operands are equal, returning a Boolean result. Unlike the strict equality operator, it attempts to convert and …
+_________
+_________
+Logical NOT (!)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT
+The logical NOT (!) (logical complement, negation) operator takes truth to falsity and vice versa. It is typically used with boolean (logical) values. When used wit …
+_________
+_________
+Math.floor()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+The Math.floor() static method always rounds down and returns the largest integer less than or equal to a given number.
 _________
 
 */

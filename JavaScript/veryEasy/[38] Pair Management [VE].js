@@ -43,14 +43,14 @@ https://www.javascripttutorial.net/javascript-return-multiple-values/
 In this tutorial, you will learn how to develop JavaScript functions that return multiple values.
 _________
 _________
-Arguments
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
-Is an Array-like object accessible inside functions that contains the values of the arguments passed to that function.
-_________
-_________
 push() Method
 https://www.w3schools.com/jsref/jsref_push.asp
 Adds new items to the end of an array, and returns the new length.
+_________
+_________
+Arguments
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments
+Is an Array-like object accessible inside functions that contains the values of the arguments passed to that function.
 _________
 
 */

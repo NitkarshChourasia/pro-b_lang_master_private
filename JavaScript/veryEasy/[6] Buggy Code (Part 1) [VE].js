@@ -57,14 +57,14 @@ https://en.wikipedia.org/wiki/Dyslexia
 Dyslexia, also known as reading disorder, is characterized by trouble with reading despite normal intelligence. Different people are affected to different degrees. Prob …
 _________
 _________
-Exponentiation
-https://www.w3schools.com/js/js_arithmetic.asp
-Raises the first operand to the power of the second operand.
-_________
-_________
 Cube Numbers
 https://www.bbc.co.uk/bitesize/topics/zyhs7p3/articles/z2ndsrd#:~:text=A%20cube%20number%20is%20a,symbol%20for%20cubed%20is%20%C2%B3.
 Is a number multiplied by itself 3 times. This can also be called 'a number cubed'. The symbol for cubed is ³.
+_________
+_________
+Exponentiation
+https://www.w3schools.com/js/js_arithmetic.asp
+Raises the first operand to the power of the second operand.
 _________
 
 */

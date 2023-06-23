@@ -33,6 +33,11 @@ https://stackoverflow.com/questions/54920220/convert-string-into-integer-in-java
 Convert string to number without built-in functions.
 _________
 _________
+5 Ways to Convert a Value to String
+https://medium.com/dailyjs/5-ways-to-convert-a-value-to-string-in-javascript-6b334b2fc778
+5 ways to convert a value to string in JavaScript.
+_________
+_________
 typeof
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
 Returns a string indicating the type of the unevaluated operand.
@@ -41,11 +46,6 @@ _________
 Convert String to Number
 https://stackabuse.com/javascript-convert-string-to-number/
 Managing data is one of the fundamental concepts of programming. Converting a Number to a String is a common and simple operation. The same goes for the other way aroun …
-_________
-_________
-5 Ways to Convert a Value to String
-https://medium.com/dailyjs/5-ways-to-convert-a-value-to-string-in-javascript-6b334b2fc778
-5 ways to convert a value to string in JavaScript.
 _________
 _________
 Template Literals

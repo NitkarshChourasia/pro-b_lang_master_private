@@ -67,6 +67,11 @@ How to Show Largest Digit From a Number
 https://stackoverflow.com/questions/18761363/how-to-show-largest-digit-from-a-number-javascript
 There's no integer div in Javascript, and this is what you must mean when using '/'. So either use Math.floor, or substract the remainder...
 _________
+_________
+JavaScript Number Split into individual digits
+https://stackoverflow.com/questions/7784620/javascript-number-split-into-individual-digits
+To split a number into individual digitals.
+_________
 
 */
 //Your code should go here:

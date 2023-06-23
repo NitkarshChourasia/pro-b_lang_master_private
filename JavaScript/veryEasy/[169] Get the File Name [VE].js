@@ -51,6 +51,11 @@ String.prototype.replace()
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
 Returns a new string with some or all matches of a pattern replaced by a replacement.
 _________
+_________
+split and pop
+https://stackoverflow.com/questions/8376525/get-value-of-a-string-after-last-slash-in-javascript
+String.prototype.split()
+_________
 
 */
 //Your code should go here:

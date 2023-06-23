@@ -38,14 +38,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arit
 Returns the remainder left over when one operand is divided by a second operand. It always takes the sign of the dividend.
 _________
 _________
-Basic Math in JavaScript
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math
-In this article we have covered the fundamental information you need to know about numbers in JavaScript, for now. You'll see numbers used again and again, all the way …
-_________
-_________
 Divisibility by 9 with Negative Number
 https://math.stackexchange.com/questions/1288810/divisibility-by-9-with-negative-number
 Multiplying by -1 doesn't change anything. If we have 18, which we know is divisible by 9, we just multiply it by -1 to get -18 and then we do the same to how many time …
+_________
+_________
+Basic Math in JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math
+In this article we have covered the fundamental information you need to know about numbers in JavaScript, for now. You'll see numbers used again and again, all the way …
 _________
 _________
 Logical NOT (!)

@@ -52,6 +52,11 @@ How Many Seconds Are In An Hour?
 https://www.calculatorology.com/how-many-seconds-are-in-an-hour/
 How many seconds are in an hour? Since one hour has 3,600 seconds, the simplest method is to divide the number of seconds by 3,600.
 _________
+_________
+Exponentiation (**)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation
+The exponentiation (**) operator returns the result of raising the first operand to the power of the second operand. It is equivalent to Math.pow(), except it also …
+_________
 
 */
 //Your code should go here:

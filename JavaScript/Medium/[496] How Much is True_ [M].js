@@ -57,6 +57,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 The length property of an object which is an instance of type Array sets or returns the number of elements in that array. The value is an unsigned, 32-bit integer that …
 _________
 _________
+for...of
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
+Creates a loop iterating over iterable objects, including: built-in String, Array, array-like objects (e.g., arguments or NodeList), TypedArray, Map, Set, and use …
+_________
+_________
 The filter(Boolean) Trick
 https://michaeluloth.com/filter-boolean
 Want something better? Here's my favourite way to quickly remove all empty items from an array...
@@ -67,19 +72,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Executes a provided function once for each array element.
 _________
 _________
-for...of
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
-Creates a loop iterating over iterable objects, including: built-in String, Array, array-like objects (e.g., arguments or NodeList), TypedArray, Map, Set, and use …
+arr.filter()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+just filter the array and give condition and check length
 _________
 _________
 shift() Method
 https://www.w3schools.com/jsref/jsref_shift.asp
 Removes the first element of an array, and returns that element and "shifts" all other elements to a lower index.
-_________
-_________
-Array Class
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-A global object that is used in the construction of arrays; which are high-level, list-like objects.
 _________
 
 */

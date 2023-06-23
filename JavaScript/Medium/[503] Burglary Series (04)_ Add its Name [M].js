@@ -1,7 +1,7 @@
 /*
 ####  Burglary Series (04): Add its Name  ####
 
-Given three arguments ⁠— an object obj of the stolen items, the pets name and a value ⁠— return an object with that name and value in it (as key-value pairs).
+Given three arguments ⁠— an object obj of the stolen items, the pet's name and a value ⁠— return an object with that name and value in it (as key-value pairs).
 
 
 [Examples]
@@ -48,14 +48,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spre
 Allows an iterable such as an array expression or string to be expanded in places where zero or more arguments (for function calls) or elements (for array literals) are …
 _________
 _________
-How to Set Dynamic Property Keys
-https://www.samanthaming.com/tidbits/37-dynamic-property-name-with-es6/
-Previously, we always had to use the bracket notation to use a dynamic key. With ES6, we can finally create dynamic variable key in the object declaration...
-_________
-_________
 Rename Object Key In Javascript
 https://www.geeksforgeeks.org/rename-object-key-in-javascript/
 JavaScript doesn’t provide an inbuilt function to rename an object key. So we will look at different approaches to accomplish this in this article.
+_________
+_________
+How to Set Dynamic Property Keys
+https://www.samanthaming.com/tidbits/37-dynamic-property-name-with-es6/
+Previously, we always had to use the bracket notation to use a dynamic key. With ES6, we can finally create dynamic variable key in the object declaration...
 _________
 
 */

@@ -46,6 +46,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Dest
 Is a JavaScript expression that makes it possible to unpack values from arrays, or properties from objects, into distinct variables.
 _________
 _________
+How to swap two array elements in JavaScript
+https://flaviocopes.com/javascript-swap-array-elements/
+How to swap two array elements in JavaScript
+_________
+_________
 Bitwise XOR (^)
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR
 The bitwise XOR operator (^) returns a 1 in each bit position for which the corresponding bits of either but not both operands are 1s.

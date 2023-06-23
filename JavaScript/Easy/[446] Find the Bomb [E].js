@@ -58,6 +58,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 Returns the value of the first element in the provided array that satisfies the provided testing function. If no values satisfy the testing function, undefined is r …
 _________
 _________
+JavaScript RegExp i Modifier
+https://www.w3schools.com/jsref/jsref_regexp_i.asp
+How to find case-insenitive match
+_________
+_________
 split() Method
 https://www.w3schools.com/jsref/jsref_split.asp#:~:text=The%20split()%20method%20is,not%20change%20the%20original%20string.
 Is used to split a string into an array of substrings, and returns the new array. Tip: If an empty string ("") is used as the separator, the string is split between ea …

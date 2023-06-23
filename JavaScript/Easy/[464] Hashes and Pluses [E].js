@@ -64,14 +64,14 @@ https://www.w3schools.com/jsref/jsref_match.asp
 Searches a string for a match against a regular expression, and returns the matches, as an Array object.
 _________
 _________
-String.prototype.includes()
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes
-Determines whether one string may be found within another string, returning true or false as appropriate.
-_________
-_________
 For Loop
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
 Creates a loop that consists of three optional expressions, enclosed in parentheses and separated by semicolons, followed by a statement (usually a block statement) to …
+_________
+_________
+String.prototype.includes()
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes
+Determines whether one string may be found within another string, returning true or false as appropriate.
 _________
 _________
 Array.prototype.reduce()
