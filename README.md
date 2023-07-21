@@ -38,6 +38,6 @@ I welcome contributions to this repository. If you have an efficient solution to
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the <!--[MIT License](LICENSE).-->
 
 Happy coding! 😊
