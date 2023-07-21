@@ -1,3 +1,9 @@
+# Enjoy
+### Memes
+<img src="code_doesnt_work_programming_meme.jpeg">
+<img src="programming_meme_bug.jpeg">
+<img src="recursion_programming_meme.jpg">
+
 # Edabit Challenge Solutions
 
 ![Edabit Logo](https://www.example.com/edabit-logo.png)
