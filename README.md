@@ -1,3 +1,5 @@
+# TO COMPLETELY DOWNLOAD ALL THE REPOSITORIES.
+# TO REMOVE EVERY BIT OF EDABIT NAME FROM THE PROBLEMS.
 # Enjoy Edabit Challenge Solutions
 
 ![Edabit Logo](https://www.example.com/edabit-logo.png)
