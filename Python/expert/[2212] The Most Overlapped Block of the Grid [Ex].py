@@ -1,0 +1,73 @@
+"""
+####  The Most Overlapped Block of the Grid  ####
+
+Create a function that takes two arguments as input:
+___
+*) A positive integer that describes the size of a grid. For example, when the value of the argument is 10, a 10x10 grid will be used.
+*) A list of one or more tuples of size 3. Each tuple represents a block of the grid, and the meanings of the tuple's elements are: 1. The x coordinate. 2. The y coordinate. 3. The range of the block.
+___
+
+The range of a block is the maximum distance from the block situated at the x and y coordinates to other blocks. The distance can't be calculated vertically. The function returns the block that has the most overlaps.
+
+
+[Worked Examples]
+
+The tuple (3, 3, 2) covers the following blocks: (1, 3), (2, 4), (2, 3), (2, 2), (3, 5), (3, 4), (3, 3), (3, 2), (3, 1), (4, 4), (4, 3), (4, 2), (5, 3).
+Here is a visualization of that, when the first argument is 5, and the second argument is [(3, 3, 2)]:
+___
+00100
+01110
+11111
+01110
+00100
+_____
+
+The 1s represent the blocks covered by (3, 3, 2), while the 0s represent empty blocks. The biggest value on the grid is 1, hence most_overlapped_block(5, [(3, 3, 2)]) returns 1.
+If the first argument is 5, and the second argument is [(3, 3, 2), (1, 1, 2)], the grid will look like this:
+___
+00100
+01110
+21111
+12110
+11200
+_____
+
+The 2s represent the blocks of (3, 3, 2) and (1, 1, 2) that overlap. The biggest value on the grid is 2, hence most_overlapped_block(5, [(3, 3, 2, (1, 1, 2))]) returns 2.
+
+
+[Examples]
+
+___
+most_overlapped_block(10, [(3, 3, 3), (1, 1, 4)]) ➞ 2
+
+most_overlapped_block(10, [(5, 5, 2), (1, 1, 1)]) ➞ 1
+
+most_overlapped_block(10, [(1, 1, 1), (1, 1, 2), (1, 1, 3)]) ➞ 3
+_____
+
+
+
+[Notes]
+
+___
+*) There can be more than one tuples that look the same in the second argument, like [(3, 3, 2), (3, 3, 2)].
+*) Remember to not count the blocks that are outside the grid.
+*) most_overlapped_block(1, [(10, 10, 1), (10, 10, 1)]) returns 0.
+___
+
+
+
+[algorithms] [arrays] 
+
+
+
+-------------------------------------------------------------------
+[Resources]
+
+
+[No Resources]
+
+
+"""
+#Your code should go here:
+
