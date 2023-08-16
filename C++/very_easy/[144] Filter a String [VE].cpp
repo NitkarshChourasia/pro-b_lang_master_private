@@ -33,11 +33,6 @@ N/A
 -------------------------------------------------------------------
 [Resources]
 _________
-Ascii Table
-http://www.asciitable.com/
-ASCII character codes and html, octal, hex and decimal chart conversion.
-_________
-_________
 islower
 https://www.cplusplus.com/reference/cctype/islower/
 Check if character is lowercase letter.
@@ -51,6 +46,11 @@ _________
 isdigit
 http://www.cplusplus.com/reference/cctype/isdigit/
 Check if character is decimal digit.
+_________
+_________
+Ascii Table
+http://www.asciitable.com/
+ASCII character codes and html, octal, hex and decimal chart conversion.
 _________
 
 */
