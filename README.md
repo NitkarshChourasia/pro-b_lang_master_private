@@ -1,8 +1,3 @@
-# TO COMPLETELY DOWNLOAD ALL THE REPOSITORIES.
-# TO REMOVE EVERY BIT OF EDABIT NAME FROM THE PROBLEMS.
-# Enjoy Edabit Challenge Solutions
-# TO RUN THE SCRIPT ON OCTOBER TO VERIFY THE DOWNLOADS, TILL END.
-
 ![Edabit Logo](https://www.example.com/edabit-logo.png)
 
 Welcome to my repository of coding challenge solutions from [Edabit](https://edabit.com/). Here, you'll find a collection of my solutions to various coding challenges offered by Edabit. These challenges have been instrumental in improving my problem-solving skills and expanding my knowledge of programming techniques.
